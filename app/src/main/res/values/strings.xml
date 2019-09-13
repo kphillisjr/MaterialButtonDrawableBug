@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonVectorDrawableTest</string>
+    <string name="button">Button</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main2_no_icons">main2_no_icons</string>
+    <string name="return_to_previous">Return to Previous Screen</string>
+    <string name="switch_to_main2">Switch to MaterialButtons With Vectors</string>
+
+</resources>
